@@ -1,4 +1,4 @@
-## Github Commands 
+# Github Commands 
 
 - Pull the code from Master: git pull origin master
 - To check the current branch: git branch
