@@ -7,6 +7,8 @@
 - To only add added the tracked files to the staging area: git add -u
 - To commit: git commit -m "my-account"
 - To push code: git push origin shriyansh  (shriyansh is the branch to push the code)
+- To create a new branch: git checkout -b <new-branch>
+- To switch to new branch: git checkout <branch-name>
 
 
 ## Steps to Follow (Reference)
